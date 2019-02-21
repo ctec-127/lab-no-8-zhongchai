@@ -27,3 +27,4 @@ The code is the instructors solution to [Lab No. 6](https://github.com/belgort-c
 - Validate your HTML and CSS.
 - Stage, commit and push your work back to your GitHub repo.
 - You are also encourage to share a screenshot of your solution in the Slack **#general** channel.
+- Please also submit your screenshot to the assignment on Canvas. This will let me know that your work is ready to be graded.
