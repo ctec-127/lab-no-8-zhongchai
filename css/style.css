@@ -17,14 +17,13 @@ th a:link, th a:visited, th a:hover, th a:active {
     background-size: cover;
     color: #ffffff;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-  }
+}
 
-  .footer {
-    background-color: #aaa;
-  }
+.footer {
+    background-color: #aaaaaa;
+}
 
-
-  .card-header {
-    background-color: rgba(0,0,0,.45);
-    color: #fff;
-  }
+.card-header {
+    background-color: rgba(0, 0, 0, .45);
+    color: #ffffff;
+}
